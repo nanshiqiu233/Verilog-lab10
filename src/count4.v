@@ -4,7 +4,8 @@ output reg[1:0] q;
 
 always @(posedge clk)
 	begin
+	if(en) begin
 		if(q<3) q<=q+1;
 		else q<=0;
-	end
+	end end
 endmodule

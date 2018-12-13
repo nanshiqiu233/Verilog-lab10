@@ -8,7 +8,7 @@ always @(*)
 			2'b01:y=4'b1101;
 			2'b10:y=4'b1011;
 			2'b11:y=4'b0111;
-			default:y=4'b1111;
+	//		default:y=4'b1111;
 		endcase end
 	end
 endmodule

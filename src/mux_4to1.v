@@ -8,6 +8,6 @@ begin
  if(addr==2'b00)out4=in0;
  else if(addr==2'b01)  out4=in1;
  else if(addr==2'b10)  out4=in2;
- else if(addr==2'b11)  out4=in1;
+ else  out4=in3;
 end
 endmodule

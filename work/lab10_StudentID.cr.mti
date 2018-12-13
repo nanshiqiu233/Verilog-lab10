@@ -1,0 +1,43 @@
+{D:/Test Vivado/lab10_StudentID/src/display.v} {1 {vlog -work work -vopt -stats=none {D:/Test Vivado/lab10_StudentID/src/display.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module display
+
+Top level modules:
+	display
+
+} {} {}} {D:/Test Vivado/lab10_StudentID/src/display_tb .v} {1 {vlog -work work -vopt -stats=none {D:/Test Vivado/lab10_StudentID/src/display_tb .v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module display_tb_v
+
+Top level modules:
+	display_tb_v
+
+} {} {}} {D:/Test Vivado/lab10_StudentID/src/display_decoder.v} {1 {vlog -work work -vopt -stats=none {D:/Test Vivado/lab10_StudentID/src/display_decoder.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module display_decoder
+
+Top level modules:
+	display_decoder
+
+} {} {}} {D:/Test Vivado/lab10_StudentID/src/StudentID.v} {1 {vlog -work work -vopt -stats=none {D:/Test Vivado/lab10_StudentID/src/StudentID.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module StudentID
+
+Top level modules:
+	StudentID
+
+} {} {}} {D:/Test Vivado/lab10_StudentID/src/counter_n.v} {1 {vlog -work work -vopt -stats=none {D:/Test Vivado/lab10_StudentID/src/counter_n.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module counter_n
+
+Top level modules:
+	counter_n
+
+} {} {}} {D:/Test Vivado/lab10_StudentID/src/StudentID_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Test Vivado/lab10_StudentID/src/StudentID_tb.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module StudentID_tb_v
+
+Top level modules:
+	StudentID_tb_v
+
+} {} {}}

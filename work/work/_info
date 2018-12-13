@@ -7,298 +7,207 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-Z0 dD:/Test Vivado/lab7_timer12s/work
-T_opt
-!s110 1544095613
-V>AIogi0lL0mK?D4C3Q:?Y0
-04 14 4 work diplay_decoder fast 0
-=1-f48e38f43064-5c09077d-bc-1c90
-Z1 o-quiet -auto_acc_if_foreign -work work
-n@_opt
-Z2 OL;O;10.4;61
-R0
-T_opt1
-!s110 1544095916
-VNVF5[GdSEzf]YbnQ7fzM[1
-04 8 4 work mux_4to1 fast 0
-=1-f48e38f43064-5c0908ac-1ec-8ec
-R1
-n@_opt1
-R2
-R0
+dE:/modeltech64_10.4/examples
 vCircular_shifter
-Z3 VDg1SIo80bB@j0V0VzS_@n1
-r1
-!s85 0
-31
+Z0 !s110 1544700941
 !i10b 1
 !s100 0RNzbH>6e4KEA<KB31hGN3
 IU]d@8g31MiLcozXHg4AoK3
-Z4 dD:/Test Vivado/lab10_StudentID/work
-w1544272971
-Z5 8D:/Test Vivado/lab10_StudentID/src/Cirular_shifter.v
-Z6 FD:/Test Vivado/lab10_StudentID/src/Cirular_shifter.v
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Test Vivado/lab10_StudentID/work
+Z3 w1544361597
+8D:/Test Vivado/lab10_StudentID/src/Cirular_shifter.v
+FD:/Test Vivado/lab10_StudentID/src/Cirular_shifter.v
 L0 1
-Z7 OL;L;10.4;61
-!s108 1544272973.743000
-Z8 !s107 D:/Test Vivado/lab10_StudentID/src/Cirular_shifter.v|
-Z9 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Test Vivado/lab10_StudentID/src/Cirular_shifter.v|
+Z4 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1544700941.951000
+!s107 D:/Test Vivado/lab10_StudentID/src/Cirular_shifter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Test Vivado/lab10_StudentID/src/Cirular_shifter.v|
 !i113 0
-Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
 n@circular_shifter
-vCirshi
-!s110 1544096270
-!i10b 1
-!s100 a0l:Cm7zzRRKmS0T;d?9c0
-ILAdNM9TUPC2;IIW5J=n;]3
-R3
-R4
-w1542887531
-8D:/Test Vivado/lab10_StudentID/src/Circular shifter.v
-FD:/Test Vivado/lab10_StudentID/src/Circular shifter.v
-L0 1
-R7
-r1
-!s85 0
-31
-!s108 1544096270.363000
-!s107 D:/Test Vivado/lab10_StudentID/src/Circular shifter.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Test Vivado/lab10_StudentID/src/Circular shifter.v|
-!i113 0
-R10
-n@cirshi
-vCirular_shifter
-!s110 1544272901
-!i10b 1
-!s100 LM6cH7Ra6UE^kGHS?0dZQ2
-I14ki44mlnX<T;8EKPM5553
-R3
-R4
-w1544099609
-R5
-R6
-L0 1
-R7
-r1
-!s85 0
-31
-!s108 1544272901.909000
-R8
-R9
-!i113 0
-R10
-n@cirular_shifter
 vcount4
-R3
-r1
-!s85 0
-31
+Z6 !s110 1544700942
 !i10b 1
 !s100 [04YgPXFY0PzEYBd50ZhU1
 Idjj:KeOOOk6KHb_kmS`cc0
-R4
-w1542890239
+R1
+R2
+R3
 8D:/Test Vivado/lab10_StudentID/src/count4.v
 FD:/Test Vivado/lab10_StudentID/src/count4.v
 L0 1
-R7
-!s108 1544272901.234000
+R4
+r1
+!s85 0
+31
+!s108 1544700942.062000
 !s107 D:/Test Vivado/lab10_StudentID/src/count4.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Test Vivado/lab10_StudentID/src/count4.v|
 !i113 0
-R10
+R5
 vcounter_n
-R3
-r1
-!s85 0
-31
+R6
 !i10b 1
 !s100 6E__Fl_U:XzoQoHS2dZ<i0
 IC?@^f^29]CDWYlzz^^B8f3
-R4
-w1542280629
+R1
+R2
+R3
 8D:/Test Vivado/lab10_StudentID/src/counter_n.v
 FD:/Test Vivado/lab10_StudentID/src/counter_n.v
 L0 1
-R7
-!s108 1544272901.087000
+R4
+r1
+!s85 0
+31
+!s108 1544700942.173000
 !s107 D:/Test Vivado/lab10_StudentID/src/counter_n.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Test Vivado/lab10_StudentID/src/counter_n.v|
 !i113 0
-R10
+R5
 vdecoder
-R3
-r1
-!s85 0
-31
+R6
 !i10b 1
 !s100 U?WY7PM^B?aZn>ZmfDMz42
 IPV4G0O<z21PLJm[OJOf9z1
-R4
-w1544097942
+R1
+R2
+R3
 8D:/Test Vivado/lab10_StudentID/src/decoder.v
 FD:/Test Vivado/lab10_StudentID/src/decoder.v
 L0 1
-R7
-!s108 1544272901.365000
+R4
+r1
+!s85 0
+31
+!s108 1544700942.283000
 !s107 D:/Test Vivado/lab10_StudentID/src/decoder.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Test Vivado/lab10_StudentID/src/decoder.v|
 !i113 0
-R10
-vdiplay_decoder
-!s110 1543489417
-!i10b 1
-!s100 ;0G37mieU;HgScCED4QmO0
-I:;HoH2nH^<S[TMUboDeE@0
-R3
-R4
-w1543489414
-Z11 8D:/Test Vivado/lab10_StudentID/src/display_decoder.v
-Z12 FD:/Test Vivado/lab10_StudentID/src/display_decoder.v
-L0 1
-R7
-r1
-!s85 0
-31
-!s108 1543489417.058000
-Z13 !s107 D:/Test Vivado/lab10_StudentID/src/display_decoder.v|
-Z14 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Test Vivado/lab10_StudentID/src/display_decoder.v|
-!i113 0
-R10
+R5
 vdisplay
-R3
-r1
-!s85 0
-31
+R6
 !i10b 1
 !s100 17g3aB^FE=aJnIY4jomZ63
 IT@NWTPgO]P_zhnWT5<P6K3
-R4
-w1544104264
+R1
+R2
+R3
 8D:/Test Vivado/lab10_StudentID/src/display.v
 FD:/Test Vivado/lab10_StudentID/src/display.v
 L0 1
-R7
-!s108 1544272901.771000
+R4
+r1
+!s85 0
+31
+!s108 1544700942.420000
 !s107 D:/Test Vivado/lab10_StudentID/src/display.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Test Vivado/lab10_StudentID/src/display.v|
 !i113 0
-R10
+R5
 vdisplay_decoder
-R3
-r1
-!s85 0
-31
+R6
 !i10b 1
 !s100 g^oBf;B]KCC:B9RkVamSl3
 IJ03Na0fhEiQL@;oQ2aRVK2
-R4
-w1544096108
-R11
-R12
+R1
+R2
+R3
+8D:/Test Vivado/lab10_StudentID/src/display_decoder.v
+FD:/Test Vivado/lab10_StudentID/src/display_decoder.v
 L0 1
-R7
-!s108 1544272901.500000
-R13
-R14
+R4
+r1
+!s85 0
+31
+!s108 1544700942.536000
+!s107 D:/Test Vivado/lab10_StudentID/src/display_decoder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Test Vivado/lab10_StudentID/src/display_decoder.v|
 !i113 0
-R10
+R5
 vdisplay_tb_v
-!s110 1544272900
+R6
 !i10b 1
 !s100 hzZH6eXd92nZZ=Z2;X^j<0
 IccCVTa6oBffHXXN`I6YUb3
+R1
+R2
 R3
-R4
-Z15 w1526368897
 8D:/Test Vivado/lab10_StudentID/src/display_tb .v
 FD:/Test Vivado/lab10_StudentID/src/display_tb .v
 L0 8
-R7
+R4
 r1
 !s85 0
 31
-!s108 1544272900.939000
+!s108 1544700942.636000
 !s107 D:/Test Vivado/lab10_StudentID/src/display_tb .v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Test Vivado/lab10_StudentID/src/display_tb .v|
 !i113 0
-R10
-vmux_2to1_tb_v
-!s110 1542884885
-!i10b 1
-!s100 ?DD@IZK:GTTT?ASJz]aKm2
-IVR0k6l4_DcDl0L`0Gl1<O1
-R3
-R4
-w1542285480
-8D:/Test Vivado/lab5_combination/src/mux_2to1_tb.v
-FD:/Test Vivado/lab5_combination/src/mux_2to1_tb.v
-L0 8
-R7
-r1
-!s85 0
-31
-!s108 1542884885.412000
-!s107 D:/Test Vivado/lab5_combination/src/mux_2to1_tb.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Test Vivado/lab5_combination/src/mux_2to1_tb.v|
-!i113 0
-R10
+R5
 vmux_4to1
-R3
-r1
-!s85 0
-31
+R6
 !i10b 1
 !s100 4<GW_ZJ2^2`J]CG09iUYR0
 IB3mZblSHgj7?V8c]OO>8e3
-R4
-w1544097769
+R1
+R2
+R3
 8D:/Test Vivado/lab10_StudentID/src/mux_4to1.v
 FD:/Test Vivado/lab10_StudentID/src/mux_4to1.v
 L0 1
-R7
-!s108 1544272901.642000
+R4
+r1
+!s85 0
+31
+!s108 1544700942.739000
 !s107 D:/Test Vivado/lab10_StudentID/src/mux_4to1.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Test Vivado/lab10_StudentID/src/mux_4to1.v|
 !i113 0
-R10
+R5
 vStudentID
-R3
-r1
-!s85 0
-31
+!s110 1544702102
 !i10b 1
-!s100 Bm`_AL[U5YDVlU^<>V1mF0
-I:E6^;Q39Naak:`[c==c<S1
-R4
-w1544274130
+!s100 01OY=ZHZkM[m8`QD=L:<Z3
+IEOgBXiMYWf;T:GJbh8S2i0
+R1
+R2
+w1544702100
 8D:/Test Vivado/lab10_StudentID/src/StudentID.v
 FD:/Test Vivado/lab10_StudentID/src/StudentID.v
 L0 1
-R7
-!s108 1544274144.664000
-!s107 D:/Test Vivado/lab10_StudentID/src/StudentID.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Test Vivado/lab10_StudentID/src/StudentID.v|
-!i113 0
-R10
-n@student@i@d
-vStudentID_tb_v
-R3
+R4
 r1
 !s85 0
 31
+!s108 1544702102.849000
+!s107 D:/Test Vivado/lab10_StudentID/src/StudentID.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Test Vivado/lab10_StudentID/src/StudentID.v|
+!i113 0
+R5
+n@student@i@d
+vStudentID_tb_v
+R0
 !i10b 1
 !s100 ^SIgf]>kYoA]9@LY[bj853
 I1m5Jdg@boaEM;oOFW=j_;3
-R4
-R15
+R1
+R2
+R3
 8D:/Test Vivado/lab10_StudentID/src/StudentID_tb.v
 FD:/Test Vivado/lab10_StudentID/src/StudentID_tb.v
 L0 14
-R7
-!s108 1544272900.757000
+R4
+r1
+!s85 0
+31
+!s108 1544700941.773000
 !s107 D:/Test Vivado/lab10_StudentID/src/StudentID_tb.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Test Vivado/lab10_StudentID/src/StudentID_tb.v|
 !i113 0
-R10
+R5
 n@student@i@d_tb_v
